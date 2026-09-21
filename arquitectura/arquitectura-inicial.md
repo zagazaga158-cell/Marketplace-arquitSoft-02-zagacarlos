@@ -83,7 +83,6 @@ flowchart TD
 
    
 
-    Ing. LIZBETH JAICO QUISPE| Semestre 2026-II pág. 14
     style Pago fill:#222,stroke:#fff,color:#fff
     style ERP fill:#222,stroke:#fff,color:#fff
     style Envio fill:#222,stroke:#fff,color:#fff
