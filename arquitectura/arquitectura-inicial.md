@@ -39,9 +39,7 @@ flowchart TD
     Pago["Pasarela de pago"]
     ERP["ERP"]
 
-    ARQUITECTURA DE SOFTWARE [IS-488]
-
-    Ing. LIZBETH JAICO QUISPE| Semestre 2026-II pág. 13
+    
 
     Envio["Servicio de envío"]
     end
@@ -83,7 +81,7 @@ flowchart TD
     style Pedidos fill:#222,stroke:#fff,color:#fff
     style BD fill:#222,stroke:#fff,color:#fff
 
-    ARQUITECTURA DE SOFTWARE [IS-488]
+   
 
     Ing. LIZBETH JAICO QUISPE| Semestre 2026-II pág. 14
     style Pago fill:#222,stroke:#fff,color:#fff
