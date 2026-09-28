@@ -2,5 +2,5 @@
 
 ## Diagrama de Arquitectura
 
-![Imagen de arquitectura](./imagen.png)
-<img src="./imagen.png" alt="Diagrama de arquitectura" width="800">
+![Imagen de arquitectura](./imagen2.png)
+<img src="./imagen2.png" alt="Diagrama de arquitectura" width="800">
