@@ -1,4 +1,4 @@
-# Estilo de Arquitectura
+# Enfoque de Arquitectura
 
 ## Diagrama de Arquitectura
 
